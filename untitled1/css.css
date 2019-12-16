@@ -1,0 +1,249 @@
+@import url("reset.css");
+.wrapper{
+    width: 1423px;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid #000;
+    position:relative
+}
+/*第一行开始*/
+.row_one{
+    height: 90px;
+    background-color: #000;
+}
+.a{
+    width: 80px;
+    height: 90px;
+    float: left;
+    text-align: center;
+    margin-top: 21px;
+}
+.a1{
+    margin-left: 23px;
+}
+.a2{
+    margin-left: 39px;
+}
+.a3{
+    width: 80px;
+    height: 80px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/peron.png);
+    /*background-position: center center;*/
+    background-size: 100% 100%;
+    background-size: 66px 66px;
+    margin: 10px 0 0 29px;
+    float: left;
+}
+.a4{
+    color: #FFFFFF;
+    width: 225px;
+    height: 50px;
+    float: left;
+    margin: 18px 0 0 17px;
+}
+.bg_img{
+    background-image: url(.idea);
+    float: left;
+}
+.left_img1{
+    width: 188px;
+    height: 95px;
+    background-position:0 -33px ;
+    margin: 6px 0 0 90px;
+}
+.right_img1{
+    width: 28px;
+    height: 28px;
+    background-position: -8px 0;
+    margin: 25px 0 0 32px;
+}
+.right_img2{
+    width: 23px;
+    height: 28px;
+    background-position: -45px 0;
+    margin: 25px 0 0 14px;
+}
+.right_img3{
+    width: 78px;
+    height: 78px;
+    background-position: 0px -169px;
+    margin-left: -5px;
+    margin-top: -2px;
+}
+/*第一行结束*/
+/*第二行开始*/
+
+/*第二行结束*/
+/*第三行开始*/
+.row_three{
+    height: 60px;
+    background-color: fdfdfd;
+}
+.c{
+    width: 112px;
+    height: 60px;
+    float: left;
+    text-align: center;
+    line-height: 60px;
+    font-weight:bold;
+    font-size: 18px;
+    font-family: 宋体;
+    color: #555555;
+    /*color: #ddb257;*/
+}
+.c1{
+    margin: 0 0 0 92px;
+}
+.c2{
+    margin-left: 47px;
+}
+/*第三行结束*/
+/*第四行开始*/
+.row_four{
+    height: 440px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/bg-content-top.jpg);
+    background-size: 100% 100%;
+}
+.d{
+    height: 402px;
+    float: left;
+    margin-top: 39px;
+    margin-left: 27px;
+}
+.d1{
+    width: 821px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/img01.jpg);
+    /*background-position: center center;*/
+    background-size: 100% 100%;
+    margin-left: 92px;
+}
+.d2{
+    width: 402px;
+    height: 402px;
+    float: left;
+}
+.d21{
+    height: 151px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/video-img.png);
+    background-size: 100% 100%;
+}
+.d22{
+    height:251px ;
+}
+.d3{
+    margin-top: 9px;
+    /*width: 397px;*/
+    height: 55px;
+}
+.d3-1{
+    margin-top: 5px;
+    height: 55px;
+}
+.l1,.l2,.l3{
+    width: 131px;
+    height: 55px;
+    background-color: #fff;
+    float: right;
+    line-height: 55px;
+    text-align: center;
+    /*background-image: url(../HTML任务5/3：英雄联盟/素材/icon.png);*/
+}
+.l2{
+    margin-right: 3px;
+    margin-left: 3px;
+}
+.dl{
+    float: left;
+    width: 26px;
+    height: 32px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/icon.png);
+    margin-left: 10px;
+    margin-top: 14px;
+}
+.dm{
+    float: left;
+    width: 26px;
+    height: 32px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/icon.png);
+    margin-left: 10px;
+    margin-top: 14px;
+}
+.dl1{
+    background-position: -592px 0px;
+}
+.dl2{
+    background-position: -562px 0px;
+}
+.dl3{
+    background-position: -201px 0px;
+    /*background-color: #f00;*/
+}
+.d31{
+    background-position: -288px 0px;
+}
+.d32{
+    background-position: -652px 0px;
+}
+.d33{
+    background-position: -381px 0px;
+}
+.d34{
+    background-position: -471px 0px;
+}
+.d35{
+    background-position: -261px 0px;
+}
+.d36{
+    background-position: -622px 0px;
+}
+.d37{
+    background-position: -441px 0px;
+}
+.d38{
+    background-position: -412px 0px;
+}
+.d39{
+    background-position: -502px 0px;
+}
+.dl31{
+    float: right;
+    width: 16px;
+    height: 16px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/icon.png);
+    margin-right: 20px;
+    margin-top: 7px;
+}
+.d1311{
+    background-position: -105px 0px;
+}
+.d1312{
+    background-position: -128px 0px;
+}
+/*第四行结束*/
+/*第五行开始*/
+.row_five{
+    height: 57px;
+    width: auto;
+    margin-left: 97px;
+    margin-top: 66px;
+}
+.la{
+    width: 155px;
+    height: 57px;
+    line-height: 57px;
+    float: left;
+    text-align: center;
+}
+.la1{
+    margin-left: 0px;
+    display:block;
+    color: #555555;
+    border-bottom: 2px solid #555555;
+}
+.la2{
+    margin-left: 0px;
+    display:block;
+    color:#dfb257;
+    border-bottom: 2px solid #dfb257;
+}
+/*第五行结束*/

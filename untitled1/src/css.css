@@ -1,0 +1,560 @@
+@import url("reset.css");
+.wrapper{
+    width: 1423px;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid #000;
+    position:relative
+}
+/*第一行开始*/
+.row_one{
+    height: 90px;
+    background-color: #000;
+}
+.a{
+    width: 80px;
+    height: 90px;
+    float: left;
+    text-align: center;
+    margin-top: 21px;
+}
+.a1{
+    margin-left: 23px;
+}
+.a2{
+    margin-left: 39px;
+}
+.a3{
+    width: 80px;
+    height: 80px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/peron.png);
+    /*background-position: center center;*/
+    background-size: 100% 100%;
+    background-size: 66px 66px;
+    margin: 10px 0 0 29px;
+    float: left;
+}
+.a4{
+    color: #FFFFFF;
+    width: 225px;
+    height: 50px;
+    float: left;
+    margin: 18px 0 0 17px;
+}
+.bg_img{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/icon.png);
+    float: left;
+}
+.left_img1{
+    width: 188px;
+    height: 95px;
+    background-position:0 -33px ;
+    margin: 6px 0 0 90px;
+}
+.right_img1{
+    width: 28px;
+    height: 28px;
+    background-position: -8px 0;
+    margin: 25px 0 0 32px;
+}
+.right_img2{
+    width: 23px;
+    height: 28px;
+    background-position: -45px 0;
+    margin: 25px 0 0 14px;
+}
+.right_img3{
+    width: 78px;
+    height: 78px;
+    background-position: 0px -169px;
+    margin-left: -5px;
+    margin-top: -2px;
+}
+/*第一行结束*/
+/*第二行开始*/
+.row_two{
+    height: 352px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/bg-top.jpg);
+    /*background-position: center center;*/
+    background-size: 100% 100%;
+
+}
+.b1{
+    width: 251px;
+    height: 28px;
+    font-size: 10px;
+    color: #FFFFFF;
+    /*margin: 0 60px 55px 0;*/
+    position: absolute;
+    right: 135px;
+    top: 390px;
+}
+.b2{
+    color: #dfb257;
+}
+.b3{
+    color: #dfb257;
+    width: 84px;
+    height: 28px;
+    opacity: .5;
+    border: 1px solid #dfb257;
+    box-shadow: -1px 1px 1px 1px;
+}
+/*第二行结束*/
+/*第三行开始*/
+.row_three{
+    height: 60px;
+    background-color: fdfdfd;
+}
+.c{
+    width: 112px;
+    height: 60px;
+    float: left;
+    text-align: center;
+    line-height: 60px;
+    font-weight:bold;
+    font-size: 18px;
+    font-family: 宋体;
+    color: #555555;
+    /*color: #ddb257;*/
+}
+.c1{
+    margin: 0 0 0 92px;
+}
+.c2{
+    margin-left: 47px;
+}
+/*第三行结束*/
+/*第四行开始*/
+.row_four{
+    height: 440px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/bg-content-top.jpg);
+    background-size: 100% 100%;
+}
+.d{
+    height: 402px;
+    float: left;
+    margin-top: 39px;
+    margin-left: 27px;
+}
+.d1{
+    width: 821px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/img01.jpg);
+    /*background-position: center center;*/
+    background-size: 100% 100%;
+    margin-left: 92px;
+}
+.d2{
+    width: 402px;
+    height: 402px;
+    float: left;
+}
+.d21{
+    height: 151px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/video-img.png);
+    background-size: 100% 100%;
+}
+.d22{
+    height:251px ;
+}
+.d3{
+    margin-top: 9px;
+    /*width: 397px;*/
+    height: 55px;
+}
+.d3-1{
+    margin-top: 5px;
+    height: 55px;
+}
+.l1,.l2,.l3{
+    width: 131px;
+    height: 55px;
+    background-color: #fff;
+    float: right;
+    line-height: 55px;
+    text-align: center;
+    /*background-image: url(../HTML任务5/3：英雄联盟/素材/icon.png);*/
+}
+.l2{
+    margin-right: 3px;
+    margin-left: 3px;
+}
+.dl{
+    float: left;
+    width: 26px;
+    height: 32px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/icon.png);
+    margin-left: 10px;
+    margin-top: 14px;
+}
+.dm{
+    float: left;
+    width: 26px;
+    height: 32px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/icon.png);
+    margin-left: 10px;
+    margin-top: 14px;
+}
+.dl1{
+    background-position: -592px 0px;
+}
+.dl2{
+    background-position: -562px 0px;
+}
+.dl3{
+    background-position: -201px 0px;
+    /*background-color: #f00;*/
+}
+.d31{
+    background-position: -288px 0px;
+}
+.d32{
+    background-position: -652px 0px;
+}
+.d33{
+    background-position: -381px 0px;
+}
+.d34{
+    background-position: -471px 0px;
+}
+.d35{
+    background-position: -261px 0px;
+}
+.d36{
+    background-position: -622px 0px;
+}
+.d37{
+    background-position: -441px 0px;
+}
+.d38{
+    background-position: -412px 0px;
+}
+.d39{
+    background-position: -502px 0px;
+}
+.dl31{
+    float: right;
+    width: 16px;
+    height: 16px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/icon.png);
+    margin-right: 20px;
+    margin-top: 7px;
+}
+.d1311{
+    background-position: -105px 0px;
+}
+.d1312{
+    background-position: -128px 0px;
+}
+/*第四行结束*/
+/*第五行开始*/
+.row_five{
+    height: 57px;
+    width: auto;
+    margin-left: 97px;
+    margin-top: 66px;
+}
+.la{
+    width: 155px;
+    height: 57px;
+    line-height: 57px;
+    float: left;
+    text-align: center;
+}
+.la1{
+    margin-left: 0px;
+    display:block;
+    color: #555555;
+    border-bottom: 2px solid #555555;
+}
+.la2{
+    margin-left: 0px;
+    display:block;
+    color:#dfb257;
+    border-bottom: 2px solid #dfb257;
+}
+/*第五行结束*/
+/*第六行开始*/
+.row_six{
+    height: 656px;
+    margin-top: 22px;
+}
+.f1{
+    width: 823px;
+    height: 656px;
+    margin-left: 92px;
+    float: left;
+}
+.f11{
+    height: 124px;
+    /*background-color:blue;*/
+}
+.f12{
+    width: 823px;
+    height: 533px;
+}
+.f13{
+    height: 30px;
+    background-color: #ebebeb;
+    margin-top: -31px;
+    text-align: center;
+    line-height: 30px;
+    color: #555;
+}
+.f111{
+    height: 124px;
+    width: 202px;
+    float: left;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/pic-news9.jpg);
+    background-position: 100% 100%;
+}
+.f112{
+    height: 124px;
+    width: 621px;
+    float: left;
+}
+.f1121{
+    font-size: 36px;
+    font-weight: bold;
+}
+.f1122{
+    font-size: 14px;
+    color: #555555;
+}
+.f1123{
+    display: block;
+    margin-left: 15px;
+}
+.f1221{
+    width: 70px;
+    background-color: #ebebeb;
+}
+.f1222{
+    width: 703px;
+    padding-left: 10px;
+}
+.f1223{
+    width: 40px;
+}
+.f8{
+    text-align: center;
+}
+.f9{
+    color: #555;
+    height: 35px;
+    display: block;
+    line-height: 35px;
+    font-size: 14px;
+    float: left;
+}
+.f11211{
+    margin-top: 22px ;
+}
+.f11212{
+    margin-top: 13px;
+}
+.f2{
+    width: 402px;
+    height: 656px;
+    margin-left: 19px;
+    float: left;
+}
+.f21{
+    height: 157px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/skin01.jpg);
+    background-position: 100% 100%;
+}
+.f22{
+    height: 71px;
+    margin-top: 10px;
+}
+.f221{
+    width: 195px;
+    height: 70px;
+    float: left;
+    background-position: 100% 100%;
+}
+.f23{
+    height: 71px;
+}
+.f2211{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/skin02.jpg);
+}
+.f2212{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/skin03.jpg);
+}
+.f2213{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/skin04.jpg);
+}
+.f2214{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/skin05.jpg);
+}
+.f2215{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/skin06.jpg);
+}
+.f2216{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/skin03.png);
+}
+.f2217{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/pic-go-qt.jpg);
+}
+.f2218{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/pic-go-mall.jpg);
+}
+.f24{
+    width: 71px;
+    height: 71px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/icon.png);
+    background-position: -330px -89px;
+    float: left;
+}
+.f25{
+    width: 302px;
+    height: 71px;
+    float: left;
+}
+.f22111{
+    margin-left: 12px;
+}
+/*第六行结束*/
+/*第七行已完成*/
+/*第八行开始*/
+.row_eight{
+    height: 160px;
+    margin-top: 20px;
+    margin-left: 92px;
+}
+.h1{
+    width:190px;
+    height: 160px;
+    float: left;
+}
+.h0{
+    height: 100px;
+    background-size: 190px 100px;
+}
+.h11{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/video1.jpg);
+}
+.h12{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/video2.jpg);
+}
+.h13{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/video3.jpg);
+}
+.h14{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/video4.jpg);
+}
+.h15{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/video5.jpg);
+}
+.h16{
+    background-image: url(../HTML任务5/3：英雄联盟/素材/video6.jpg);
+}
+.h2{
+    margin-left: 20px;
+}
+/*第八行结束*/
+/*第九行开始*/
+.row_nine{
+    width: 1239px;
+    height: 30px;
+    background-color: #ebebeb;
+    margin-left: 92px;
+    text-align: center;
+    line-height: 30px;
+    color: #555;
+}
+/*第九行结束*/
+/*第十行开始*/
+.row_ten{
+    height: 163px;
+    background-image: url(../HTML任务5/3：英雄联盟/素材/bg-footer.jpg);
+    background-position: -247px 0;
+    margin-top: 53px;
+}
+.j{
+    width: 530px;
+    height: 163px;
+    margin-left: 498px;
+    /*line-height: 163px;*/
+}
+/*第十行结束*/
+.lan1{
+    display: block;
+    color: #568193;
+    font-size: 10px;
+}
+.lan{
+    display: block;
+    color: #568193;
+    font-size: 10px;
+    padding: 35px 0 0 0;
+}
+.bai2{
+    display: block;
+    color: #fff;
+    font-size: 10px;
+}
+.hei{
+    font-size: 14px;
+    font-weight: bold;
+}
+.hui4{
+    color: #555555;
+}
+.hui3{
+    /*padding-left: 100px;
+    padding-top: 20px;*/
+    position: absolute;
+    right: 92px;
+    top: 1505px;
+    font-size: 14px;
+}
+.hui2{
+    color: #555;
+}
+.bai{
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.huang{
+    color:#dfb257;
+    text-decoration: underline;
+}
+.huang1{
+    color:#dfb257;
+}
+span{
+    font-size: 10px;
+}
+.hui{
+    font-size:13px;
+    margin-left: 6px;
+    display: block;
+    width: 88px;
+    height: 55px;
+    color: #555555;
+}
+.hui:hover{
+    color: #dcc18a;
+    /*border-bottom:1px solid #dcc18a;*/
+    cursor: context-menu;
+}
+.c>.hui1:hover{
+    color: #dcc18a;
+    border-bottom:1px solid #dcc18a;
+    cursor: context-menu;
+}
+.hui1{
+    display: inline-block;
+    width: 112px;
+    height: 60px;
+    color: #555555;
+}
+.b3:hover{
+    box-shadow: -3px 3px 3px 2px; ;
+}
+.la:hover{
+    font-weight: bold;
+}
